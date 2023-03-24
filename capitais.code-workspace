@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "capitais",
+			"path": "../../../../Downloads/capitais"
+		},
+		{
+			"name": "lab3",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lab3"
+	}
+}
